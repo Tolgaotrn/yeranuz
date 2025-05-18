@@ -1,0 +1,22 @@
+SMB                      192.168.56.11   445    WINTERFELL       [*] Windows 10 / Server 2019 Build 17763 x64 (name:WINTERFELL) (domain:north.sevenkingdoms.local) (signing:True) (SMBv1:False)
+LDAP                     192.168.56.11   389    WINTERFELL       [+] north.sevenkingdoms.local\hodor:hodor 
+LDAP                     192.168.56.11   389    WINTERFELL       [*] Enumerated 17 domain users: north.sevenkingdoms.local
+LDAP                     192.168.56.11   389    WINTERFELL       -Username-                    -Last PW Set-       -BadPW- -Description-
+LDAP                     192.168.56.11   389    WINTERFELL       goadmin                       2025-02-12 21:01:38 2       Built-in account for administering the computer/domain
+LDAP                     192.168.56.11   389    WINTERFELL       Guest                         <never>             5       Built-in account for guest access to the computer/domain
+LDAP                     192.168.56.11   389    WINTERFELL       ansible                       2025-02-12 21:20:38 0    
+LDAP                     192.168.56.11   389    WINTERFELL       Administrator                 2025-02-12 21:39:33 5    
+LDAP                     192.168.56.11   389    WINTERFELL       krbtgt                        2025-02-12 21:59:45 1       Key Distribution Center Service Account
+LDAP                     192.168.56.11   389    WINTERFELL       arya.stark                    2025-02-12 22:16:55 1       Arya Stark
+LDAP                     192.168.56.11   389    WINTERFELL       eddard.stark                  2025-02-12 22:16:59 0       Eddard Stark
+LDAP                     192.168.56.11   389    WINTERFELL       catelyn.stark                 2025-02-12 22:17:03 1       Catelyn Stark
+LDAP                     192.168.56.11   389    WINTERFELL       robb.stark                    2025-02-12 22:17:07 0       Robb Stark
+LDAP                     192.168.56.11   389    WINTERFELL       sansa.stark                   2025-02-12 22:17:11 1       Sansa Stark
+LDAP                     192.168.56.11   389    WINTERFELL       brandon.stark                 2025-02-12 22:17:16 0       Brandon Stark
+LDAP                     192.168.56.11   389    WINTERFELL       rickon.stark                  2025-02-12 22:17:20 2       Rickon Stark
+LDAP                     192.168.56.11   389    WINTERFELL       hodor                         2025-02-12 22:17:24 0       Brainless Giant
+LDAP                     192.168.56.11   389    WINTERFELL       jon.snow                      2025-02-12 22:17:28 3       Jon Snow
+LDAP                     192.168.56.11   389    WINTERFELL       samwell.tarly                 2025-02-12 22:17:32 2       Samwell Tarly (Password : Heartsbane)
+LDAP                     192.168.56.11   389    WINTERFELL       jeor.mormont                  2025-02-12 22:17:36 1       Jeor Mormont
+LDAP                     192.168.56.11   389    WINTERFELL       sql_svc                       2025-02-12 22:17:40 0       sql service
+

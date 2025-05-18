@@ -1,0 +1,17 @@
+Authenticated Enumeration Report
+==============================
+Target: 192.168.56.11
+Domain: north.sevenkingdoms.local
+Username: hodor
+Generated: 2025-05-07 15:15:02
+
+
+Enumeration Summary
+==================
+SMB Shares: ./enum_output/smb_shares.txt
+Spider Plus: ./enum_output/spider_plus_result.txt
+Users: ./enum_output/users.txt
+User Objects: ./enum_output/user_objects.txt
+Password Policy: ./enum_output/password_policy.txt
+Group Policy: ./enum_output/group_policy.txt
+BloodHound Data: ./enum_output/20250507151514_bloodhound.zip

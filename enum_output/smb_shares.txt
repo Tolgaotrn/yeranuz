@@ -1,0 +1,12 @@
+SMB                      192.168.56.11   445    WINTERFELL       [*] Windows 10 / Server 2019 Build 17763 x64 (name:WINTERFELL) (domain:north.sevenkingdoms.local) (signing:True) (SMBv1:False)
+SMB                      192.168.56.11   445    WINTERFELL       [+] north.sevenkingdoms.local\hodor:hodor 
+SMB                      192.168.56.11   445    WINTERFELL       [*] Enumerated shares
+SMB                      192.168.56.11   445    WINTERFELL       Share           Permissions     Remark
+SMB                      192.168.56.11   445    WINTERFELL       -----           -----------     ------
+SMB                      192.168.56.11   445    WINTERFELL       ADMIN$                          Remote Admin
+SMB                      192.168.56.11   445    WINTERFELL       C$                              Default share
+SMB                      192.168.56.11   445    WINTERFELL       D$                              Default share
+SMB                      192.168.56.11   445    WINTERFELL       IPC$            READ            Remote IPC
+SMB                      192.168.56.11   445    WINTERFELL       NETLOGON        READ            Logon server share 
+SMB                      192.168.56.11   445    WINTERFELL       SYSVOL          READ            Logon server share 
+

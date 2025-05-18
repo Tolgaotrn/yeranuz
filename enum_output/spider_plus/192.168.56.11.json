@@ -1,0 +1,78 @@
+{
+    "NETLOGON": {
+        "script.ps1": {
+            "atime_epoch": "2025-02-13 00:06:03",
+            "ctime_epoch": "2025-02-13 00:06:03",
+            "mtime_epoch": "2025-02-15 20:04:01",
+            "size": "165 B"
+        },
+        "secret.ps1": {
+            "atime_epoch": "2025-02-13 00:06:08",
+            "ctime_epoch": "2025-02-13 00:06:08",
+            "mtime_epoch": "2025-02-15 20:03:14",
+            "size": "869 B"
+        }
+    },
+    "SYSVOL": {
+        "north.sevenkingdoms.local/Policies/{31B2F340-016D-11D2-945F-00C04FB984F9}/GPT.INI": {
+            "atime_epoch": "2025-02-12 23:15:41",
+            "ctime_epoch": "2025-02-12 22:58:50",
+            "mtime_epoch": "2025-02-12 23:15:42",
+            "size": "22 B"
+        },
+        "north.sevenkingdoms.local/Policies/{31B2F340-016D-11D2-945F-00C04FB984F9}/MACHINE/Microsoft/Windows NT/SecEdit/GptTmpl.inf": {
+            "atime_epoch": "2025-02-12 23:15:41",
+            "ctime_epoch": "2025-02-12 22:58:50",
+            "mtime_epoch": "2025-02-12 23:15:42",
+            "size": "1.16 KB"
+        },
+        "north.sevenkingdoms.local/Policies/{6AC1786C-016F-11D2-945F-00C04fB984F9}/GPT.INI": {
+            "atime_epoch": "2025-02-25 16:18:09",
+            "ctime_epoch": "2025-02-12 22:58:50",
+            "mtime_epoch": "2025-02-25 16:18:10",
+            "size": "23 B"
+        },
+        "north.sevenkingdoms.local/Policies/{6AC1786C-016F-11D2-945F-00C04fB984F9}/MACHINE/Microsoft/Windows NT/SecEdit/GptTmpl.inf": {
+            "atime_epoch": "2025-02-25 16:18:09",
+            "ctime_epoch": "2025-02-12 22:58:50",
+            "mtime_epoch": "2025-02-25 16:18:09",
+            "size": "4.46 KB"
+        },
+        "north.sevenkingdoms.local/Policies/{E55F5834-0881-455D-8FE3-B45B6DC5360F}/GPO.cmt": {
+            "atime_epoch": "2025-02-13 00:07:23",
+            "ctime_epoch": "2025-02-13 00:07:23",
+            "mtime_epoch": "2025-02-13 00:07:24",
+            "size": "32 B"
+        },
+        "north.sevenkingdoms.local/Policies/{E55F5834-0881-455D-8FE3-B45B6DC5360F}/GPT.INI": {
+            "atime_epoch": "2025-02-13 00:07:24",
+            "ctime_epoch": "2025-02-13 00:07:22",
+            "mtime_epoch": "2025-02-13 00:07:26",
+            "size": "64 B"
+        },
+        "north.sevenkingdoms.local/Policies/{E55F5834-0881-455D-8FE3-B45B6DC5360F}/Machine/Registry.pol": {
+            "atime_epoch": "2025-02-13 00:07:24",
+            "ctime_epoch": "2025-02-13 00:07:24",
+            "mtime_epoch": "2025-02-13 00:07:26",
+            "size": "200 B"
+        },
+        "north.sevenkingdoms.local/Policies/{E55F5834-0881-455D-8FE3-B45B6DC5360F}/User/Registry.pol": {
+            "atime_epoch": "2025-02-13 00:07:24",
+            "ctime_epoch": "2025-02-13 00:07:23",
+            "mtime_epoch": "2025-02-13 00:07:24",
+            "size": "202 B"
+        },
+        "north.sevenkingdoms.local/scripts/script.ps1": {
+            "atime_epoch": "2025-02-13 00:06:03",
+            "ctime_epoch": "2025-02-13 00:06:03",
+            "mtime_epoch": "2025-02-15 20:04:01",
+            "size": "165 B"
+        },
+        "north.sevenkingdoms.local/scripts/secret.ps1": {
+            "atime_epoch": "2025-02-13 00:06:08",
+            "ctime_epoch": "2025-02-13 00:06:08",
+            "mtime_epoch": "2025-02-15 20:03:14",
+            "size": "869 B"
+        }
+    }
+}

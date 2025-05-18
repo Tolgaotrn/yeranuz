@@ -1,0 +1,31 @@
+SMB                      192.168.56.11   445    WINTERFELL       [*] Windows 10 / Server 2019 Build 17763 x64 (name:WINTERFELL) (domain:north.sevenkingdoms.local) (signing:True) (SMBv1:False)
+SMB                      192.168.56.11   445    WINTERFELL       [+] north.sevenkingdoms.local\hodor:hodor 
+SPIDER_PLUS              192.168.56.11   445    WINTERFELL       [*] Started module spidering_plus with the following options:
+SPIDER_PLUS              192.168.56.11   445    WINTERFELL       [*]  DOWNLOAD_FLAG: True
+SPIDER_PLUS              192.168.56.11   445    WINTERFELL       [*]     STATS_FLAG: True
+SPIDER_PLUS              192.168.56.11   445    WINTERFELL       [*] EXCLUDE_FILTER: ['print$', 'ipc$']
+SPIDER_PLUS              192.168.56.11   445    WINTERFELL       [*]   EXCLUDE_EXTS: ['ico', 'lnk']
+SPIDER_PLUS              192.168.56.11   445    WINTERFELL       [*]  MAX_FILE_SIZE: 50 KB
+SPIDER_PLUS              192.168.56.11   445    WINTERFELL       [*]  OUTPUT_FOLDER: ./enum_output/spider_plus
+SMB                      192.168.56.11   445    WINTERFELL       [*] Enumerated shares
+SMB                      192.168.56.11   445    WINTERFELL       Share           Permissions     Remark
+SMB                      192.168.56.11   445    WINTERFELL       -----           -----------     ------
+SMB                      192.168.56.11   445    WINTERFELL       ADMIN$                          Remote Admin
+SMB                      192.168.56.11   445    WINTERFELL       C$                              Default share
+SMB                      192.168.56.11   445    WINTERFELL       D$                              Default share
+SMB                      192.168.56.11   445    WINTERFELL       IPC$            READ            Remote IPC
+SMB                      192.168.56.11   445    WINTERFELL       NETLOGON        READ            Logon server share 
+SMB                      192.168.56.11   445    WINTERFELL       SYSVOL          READ            Logon server share 
+SPIDER_PLUS              192.168.56.11   445    WINTERFELL       [+] Saved share-file metadata to "./enum_output/spider_plus/192.168.56.11.json".
+SPIDER_PLUS              192.168.56.11   445    WINTERFELL       [*] SMB Shares:           6 (ADMIN$, C$, D$, IPC$, NETLOGON, SYSVOL)
+SPIDER_PLUS              192.168.56.11   445    WINTERFELL       [*] SMB Readable Shares:  3 (IPC$, NETLOGON, SYSVOL)
+SPIDER_PLUS              192.168.56.11   445    WINTERFELL       [*] SMB Filtered Shares:  1
+SPIDER_PLUS              192.168.56.11   445    WINTERFELL       [*] Total folders found:  23
+SPIDER_PLUS              192.168.56.11   445    WINTERFELL       [*] Total files found:    12
+SPIDER_PLUS              192.168.56.11   445    WINTERFELL       [*] File size average:    697.75 B
+SPIDER_PLUS              192.168.56.11   445    WINTERFELL       [*] File size min:        22 B
+SPIDER_PLUS              192.168.56.11   445    WINTERFELL       [*] File size max:        4.46 KB
+SPIDER_PLUS              192.168.56.11   445    WINTERFELL       [*] File unique exts:     5 (.pol, .ps1, .cmt, .ini, .inf)
+SPIDER_PLUS              192.168.56.11   445    WINTERFELL       [*] Downloads successful: 12
+SPIDER_PLUS              192.168.56.11   445    WINTERFELL       [+] All files processed successfully.
+
